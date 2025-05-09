@@ -18,7 +18,7 @@ class Program
         int port = 1433;
 
         // Set your GoHighLevel API key and endpoint
-        string apiKey = "eyJhbGciOiJIUzI1NiIsInR5cCI8IkpXVCJ9.eyJsb2NhdGlvbl9pZCI6InZqbnBYckVkS0huOW85VnRQZkowIiwiY29tcGFueV9pZCI6InRPeHR2SEdjcmNEb2xhU2ozVGx3IiwidmVyc2lvbiI6MSwiaWF0IjoxNjkxNzc2MDkxOTI1LCJzdWIiOiJadGfgtyuhLTDlQYkRlSml5eFFrTCJ9.SzCcTIrh78jti_7yhG86l4gBGn565yODM392whqkus";
+        string apiKey = "xxxxxxxxxxx";
         string apiEndpoint = "https://rest.gohighlevel.com/v1/contacts/"; // Adjust this based on GoHighLevel API documentation
 
         // Build the connection string
